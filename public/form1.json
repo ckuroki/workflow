@@ -1,0 +1,7 @@
+{
+  "title": "Formulario 1",
+  "type": "object",
+  "properties": {
+    "descripcion": { "type": "string", "title": "Descripcion" }
+  }
+}

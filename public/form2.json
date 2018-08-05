@@ -1,0 +1,11 @@
+{
+  "title": "Formulario 2",
+  "type": "object",
+  "required": ["email"],
+  "properties": {
+    "email": { "type": "string", "title": "Email" },
+    "nombre": { "type": "string", "title": "Nombre" },
+    "apellido": { "type": "string", "title": "Apellido" },
+    "ok": { "type": "boolean", "title": "Ok?", "default": false }
+  }
+}
