@@ -35,8 +35,8 @@ Cada url ingresada en la app va a buscar el schema de acuerdo al path ingresado 
 
 Suponiendo que el servidor donde esta deployada la app es `http://app` y el servidor de schemas es `http://server` :
 
-`http://app/#/formu1` trae el schema de `http://app/formu1.json`
-`http://app/#/formu2` trae el schema de `http://app/formu2.json`
+`http://app/#/formu1` trae el schema de `http://server/formu1.json`<br>
+`http://app/#/formu2` trae el schema de `http://server/formu2.json`<br>
 
 
 ## Deployment
